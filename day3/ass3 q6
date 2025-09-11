@@ -1,0 +1,9 @@
+#Create a tuple to store information of a person. Reverse the tuple (in a new tuple) and print it.
+
+def info():
+    tup1 = ("eshika" , 21 , "Pune")
+    print("name =",tup1[0])
+    print("age =",tup1[1])
+    print("address =",tup1[2])
+
+info()
